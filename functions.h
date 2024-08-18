@@ -5,3 +5,5 @@ int PlayCard();
 void PlayBlackjack();
 
 #endif // FUNCTIONS_H
+
+//HI
